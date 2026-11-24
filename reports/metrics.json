@@ -1,0 +1,11 @@
+{
+  "version": "v1.0",
+  "model_name": "Random Forest",
+  "metrics": {
+    "accuracy": 0.9931818181818182,
+    "macro_precision": 0.9935064935064936,
+    "macro_recall": 0.993181818181818,
+    "macro_f1": 0.9931775541531639
+  },
+  "n_test": 440
+}
